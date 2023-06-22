@@ -27,7 +27,7 @@ url: "https://cxdemo.experienceleague.tk" # the base hostname & protocol for you
 twitter_username: immany7877
 github_username:  immany
 show_downloads: "true"
-repository: immany/immany.github.io
+repository: Jarry-dev/jarry-dev.github.io
 # Build settings
 theme: minima
 #remote_theme: "mmistakes/minimal-mistakes@4.22.0"
